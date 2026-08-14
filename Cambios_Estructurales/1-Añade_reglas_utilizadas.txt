@@ -1,0 +1,8 @@
+-Dar permiso Write
+-Añadir Branch Rule Set a main con los checks:
+	-Require a pull request before merging para los 3 tipos de merge:
+		-Merge
+		-Rebase
+		-Squash
+		-Required approvals: 1
+	-Restric update	
